@@ -1,0 +1,15 @@
+baseURL: http://blog.bermuda.de
+languageCode: de-de
+title: Bermuda Blog
+theme: erblog
+
+params:
+  author: Nils Bokermann
+  
+
+menu:
+  icon:
+    - url: https://github.com/sanddorn
+      name: "github"
+      weigh: 1
+    
