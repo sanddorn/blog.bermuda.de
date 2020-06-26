@@ -5,11 +5,30 @@ theme: erblog
 
 params:
   author: Nils Bokermann
-  
+  bio: |-
+    Chemiker, ITler und so
+  description: |-
+    Java, CI, Security
+
+taxonomies:
+  category: "categories"
+#  tag: "tags"
+#  series: "series"
 
 menu:
   icon:
     - url: https://github.com/sanddorn
       name: "github"
       weigh: 1
-    
+#    - url: https://gitlab.com/sanddorn
+#      name: "gitlab"
+#      weigh: 1
+    - url: https://tiwtter.com/sanddorn
+      name: "twitter"
+      weigh: 1
+    - url: https://xing.com/profile/Nils_Bokermann
+      name: "xing"
+      weigh: 1
+    - url: https://www.linkedin.com/in/nils-bokermann-3267826
+      name: "linkedin"
+      weigh: 1
