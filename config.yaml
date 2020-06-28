@@ -6,9 +6,11 @@ theme: erblog
 params:
   author: Nils Bokermann
   bio: |-
-    Chemiker, ITler und so
+    <p class="markdown-body p">Ich bin als freiberuflicher IT-Consultant im Java Umfeld tätig. Darüber hinaus berate ich meine Kunden in Architektur- und Methodik-Fragen.</p>
+    <p class="markdown-body p">Eines meiner Hobbies ist es Hype getriebene Entscheidungen infrage zu stellen und mich so oft zum Advocatus Diaboli zu machen.</p>
   description: |-
-    Java, CI, Security
+    Java, Security, Verantwortung, Freelancer
+
 
 taxonomies:
   category: "categories"
