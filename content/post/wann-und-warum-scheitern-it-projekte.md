@@ -1,14 +1,18 @@
 ---
 title: "Wann Und Warum Scheitern It Projekte"
-date: 2020-06-24T21:57:46+02:00
+date: 2015-04-08T21:57:46+02:00
 draft: false
-
+tocOpen: true
+share:
+    facebook: true
+    twitter: true
 ---
 
 In verschiedenen Studien wird eine Versagensquote von ca. 50-70 % bei IT Projekten festgestellt. 
 Das heißt, dass nicht einmal die Hälfte aller IT Projekte das gewünschte Ziel erreicht. 
-Eine Studie [1] zeigt, dass kein signifikanter Zusammenhang zwischen Vorgehensmodell und Projekterfolg feststellbar ist. Das lässt die Frage offen, welche Faktoren zum Projekterfolg oder Projektmisserfolg führen. 
-In [2] wird auf mangelnde Kommunikation und mangelndes Vertrauen hingewiesen.
+Eine Studie [[1]](#references) zeigt, dass kein signifikanter Zusammenhang zwischen Vorgehensmodell und Projekterfolg feststellbar ist. 
+Das lässt die Frage offen, welche Faktoren zum Projekterfolg oder Projektmisserfolg führen. 
+In [[2]](#references) wird auf mangelnde Kommunikation und mangelndes Vertrauen hingewiesen.
 
 Diese Probleme sind meiner Meinung nach aber nur ein Symptom, nicht Ursache des Problems. 
 Die Ursache findet sich deutlich tiefer, sprich früher im Projekt. 
@@ -29,7 +33,7 @@ Bei 220 Arbeitstagen pro Jahr (nach Abzug der 30 Tage Urlaub) bleiben 176 faktur
 Zur Durchführung der Tätigkeiten werden wahrscheinlich Mitarbeiter eingesetzt, die zumindest einen Bachelor-Abschluss haben. 
 Einstiegsgehälter für Bachelor IT Absolventen liegen zwischen 39000 € und 45000 €. 
 In dieser Beispielrechnung nehmen wir einen Wert aus dem unteren Quartil und weil es eine einfach zu merkende Zahl ist, fixieren wir das Brutto-Gehalt des Mitarbeiters auf 40000 €. 
-Es kommt zusätzlich zu dem Gehalt noch die arbeitgeberfinanzierten Nebenkosten wie Krankenversicherung, Rentenversicherung, Arbeitslosenversicherung sowie einige kleinere Umlagen (insg. 28 % [3]). 
+Es kommt zusätzlich zu dem Gehalt noch die arbeitgeberfinanzierten Nebenkosten wie Krankenversicherung, Rentenversicherung, Arbeitslosenversicherung sowie einige kleinere Umlagen (insg. 28 % [[3]](#references)). 
 Damit kostet dieser Berufseinsteiger 51200 €.
 
 Eine Renditebetrachtung findet sich in der folgenden Tabelle.
@@ -105,7 +109,7 @@ Die Benotung des Studiums mag keinen Aufschluss über die weitere Berufslaufbahn
 # Ergebnis
 
 Schon weit bevor sich der erste Projektmitarbeiter an den Schreibtisch setzt, kann das Scheitern des Projekts schon vorprogrammiert sein. 
-Wie in [2] angesprochen, steht und fällt ein Projekt mit den sogenannten weichen Faktoren aus Kommunikation und Vertrauen. 
+Wie in [[2]](#references) angesprochen, steht und fällt ein Projekt mit den sogenannten weichen Faktoren aus Kommunikation und Vertrauen. 
 Das Vertrauen kann aber bei Auswahl der Projektmitarbeiter und ohne deren aktive Mitarbeit schon gestört sein, weil die vermeintlichen Experten doch nur Anfänger sind.
 
 Diese Ausführungen sollen nicht sagen, dass man keine Berufsanfänger (Junior) ins Team aufnehmen sollte, ganz im Gegenteil, diese können ein Team maßgeblich bereichern. 
@@ -118,7 +122,6 @@ Um ein Projekt möglichst günstig durchzuführen, ist es nicht sinnvoll ausschl
 Allen Projektdurchführenden wünsche ich viel Glück bei der Auswahl der Partner und Mitarbeiter.
 
 # References
-
 
 [1]: Gulp. (2006, Jan.) Erfolgs- und Misserfolgsfaktoren bei IT-Projekten. https://www.gulp.de/knowledge-base/rund-ums-projekt/erfolgs-und-misserfolgsfaktoren-bei-it-projekten-teil-1.html#item-10
 

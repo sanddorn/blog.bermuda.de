@@ -2,6 +2,7 @@
 title: "Was Bedeuten Doppelvorstellungen"
 date: 2020-06-26T16:28:35+02:00
 draft: true
+toc: false
 ---
 
 Welcher Freelancer hat nicht schon die E-Mail im Postfach gehabt:
@@ -29,18 +30,18 @@ Apotheke 3:
 Wir bekommen das Markenprodukt und wahrscheinlich 3 Generika angeboten. Also M, G2, G4, G6.
 
 Halten wir jetzt an dem Grundsatz von weiter Oben fest, dass Doppelvorstellungen grundsätzlich schlecht sind und demnach nicht weiter in Betracht gezogen werden dürfen, folgt, dass das Markenprodukt das schlechteste sein muss.
-Schliesslich ist es uns ja 3 mal angeboten worden.
+Schließlich ist es uns ja 3 mal angeboten worden.
 Ebenso fallen die Generika G1, G2, G3 und G4 heraus.
 Nur das Generikum G6 ist unserer Regel nach gut genug weiter betrachtet zu werden.
-Sollte unser Wirkstoff nun gerade Acetylsalicylsäure sein (Markenname Aspirin), schliessen wir mit absoluter Sicherheit das Produkt von Bayer (Aspirin), von Ratiopharm (ASS), Hexal (ASS), Stada (ASS) und 1-A Pharma (ASS) ausgeschlossen.
+Sollte unser Wirkstoff nun gerade Acetylsalicylsäure sein (Markenname Aspirin), schließen wir mit absoluter Sicherheit das Produkt von Bayer (Aspirin), von Ratiopharm (ASS), Hexal (ASS), Stada (ASS) und 1-A Pharma (ASS) ausgeschlossen.
 Wer jetzt eben an das Medikamentenschränkchen gehen will um die Medikamente herauszuholen, bitte haben Sie noch ein wenig Geduld.
 Es bleiben nämlich nur noch wenige Hersteller über.
 Ich habe nur noch einen gefunden: ALIUD Pharma.
 Hatte den jemand in seinem Medikamentenschränkchen?
 Nein, auch von den Doppelvorstellungen genommen?
 
-Wir sehen ganz klar, Auftreten an einem Markt heisst, dass der Hersteller eines Produkts ein besonderes Interesse hat, sein Produkt zu vermarkten.
-Bei einem Freelancer heisst das, dass er ein Interesse hat, sein Wissen und sein Können einzubringen.
+Wir sehen ganz klar, Auftreten an einem Markt heißt, dass der Hersteller eines Produkts ein besonderes Interesse hat, sein Produkt zu vermarkten.
+Bei einem Freelancer heißt das, dass er ein Interesse hat, sein Wissen und sein Können einzubringen.
 
 Andererseits ist natürlich verständlich, dass ein Auftraggeber aus einer großen Menge an Bewerbern wählen möchte.
 Dafür sucht er sich mehrere Personalvermittler, die ihm Vorschläge unterbreiten sollen.
@@ -54,7 +55,7 @@ Damit lassen sich erfolgreich Doppelbewerbungen filtern, allerdings durchsucht m
 Andererseits, wenn das Signal-Rausch-Verhältnis bei Vermittlern dann doch so schlecht wird, könnte man natürlich auch Alternativen in Erwägung ziehen.
 Wenn also schon das personalintensive Herausfiltern von unpassenden Bewerbern am eigenen Personal hängen bleibt, so könnte man sich sicher auch den Zwischenhändler sparen und mit dem Freelancer direkt einen Vertrag schliessen.
 
-Seten wir uns allerdings in die Rolle des Vermittlers, so sieht die Welt schon wieder anders aus.
+Setzen wir uns allerdings in die Rolle des Vermittlers, so sieht die Welt schon wieder anders aus.
 Der hat natürlich ein Interesse daran ein Alleinstellungsmerkmal aufweisen zu können.
 Insbesondere ist er nicht daran interessiert, Vergleiche zu anderen Vermittlern einzugehen.
 Zu leicht ließe sich sonst der Vermittlungsaufschlag berechnen, ist nur ein Vermittler mit einer „Open Book“ Policy mit unter den Bietern (wie z.B. die 4Freelance).

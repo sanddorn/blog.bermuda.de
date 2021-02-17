@@ -1,17 +1,29 @@
 baseURL: http://blog.bermuda.de
 languageCode: de-de
 title: Bermuda Blog
-theme: erblog
+paginate: 10
+theme: binario
+# googleAnalytics
+Author:
+  name: Nils Bokermann
+#  bio: |-
+#    Ich bin als freiberuflicher IT-Consultant im Java Umfeld tätig. Darüber hinaus berate ich meine Kunden in Architektur- und Methodik-Fragen.
+# avatar =
 
+markup:
+  tableOfContents:
+    startLevel: 0
+    endLevel: 3
 params:
-  author: Nils Bokermann
-  bio: |-
-    <p class="markdown-body p">Ich bin als freiberuflicher IT-Consultant im Java Umfeld tätig. Darüber hinaus berate ich meine Kunden in Architektur- und Methodik-Fragen.</p>
-    <p class="markdown-body p">Eines meiner Hobbies ist es Hype getriebene Entscheidungen infrage zu stellen und mich so oft zum Advocatus Diaboli zu machen.</p>
-  description: |-
-    Java, Security, Verantwortung, Freelancer
+  dateFormat: "2.01.2006"
+  authorbox: true
 
-
+  entry:
+    meta:
+      - date
+      - categories
+    toc: true # Enable Table of Contents
+    tocOpen: true # Open Table of Contents block. Optional
 taxonomies:
   category: "categories"
 #  tag: "tags"
