@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 date: 2021-02-16T19:28:50+01:00
-draft: true
+draft: false
 menu: footer
 authorbox: false
 toc: false

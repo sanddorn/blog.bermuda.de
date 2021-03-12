@@ -1,7 +1,7 @@
 ---
 title: "About me"
 date: 1971-01-11T11:12:24+01:00
-draft: true
+draft: false
 menu: main
 authorbox: false
 toc: false
