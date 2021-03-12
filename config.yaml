@@ -24,6 +24,14 @@ params:
       - categories
     toc: true # Enable Table of Contents
     tocOpen: true # Open Table of Contents block. Optional
+  Social:
+    email: nils.bokermann+blog@bermuda.de
+    xing: Nils_Bokermann
+    twitter: sanddorn
+    linkedin: nils-bokermann-3267826
+    github: sanddorn
+    gitlab: nils.bokermann
+
 taxonomies:
   category: "categories"
 #  tag: "tags"

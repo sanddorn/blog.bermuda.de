@@ -8,6 +8,9 @@ Categories:
 share:
     facebook: true
     twitter: true
+    xing: true
+    linkedin: true
+    pocket: true
 ---
 
 Welcher Freelancer hat nicht schon die E-Mail im Postfach gehabt:

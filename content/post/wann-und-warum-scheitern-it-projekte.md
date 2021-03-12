@@ -6,6 +6,9 @@ tocOpen: true
 share:
     facebook: true
     twitter: true
+    xing: true
+    linkedin: true
+    pocket: true
 Categories:
   - "Business"
   - "Project"
