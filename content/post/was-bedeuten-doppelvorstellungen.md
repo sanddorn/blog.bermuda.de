@@ -5,6 +5,9 @@ toc: false
 Categories:
   - "Business"
   - "Contracting"
+share:
+    facebook: true
+    twitter: true
 ---
 
 Welcher Freelancer hat nicht schon die E-Mail im Postfach gehabt:
