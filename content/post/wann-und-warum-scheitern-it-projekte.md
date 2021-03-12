@@ -6,6 +6,9 @@ tocOpen: true
 share:
     facebook: true
     twitter: true
+Categories:
+  - "Business"
+  - "Project"
 ---
 
 In verschiedenen Studien wird eine Versagensquote von ca. 50-70 % bei IT Projekten festgestellt. 
