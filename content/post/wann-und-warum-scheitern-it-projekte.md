@@ -3,6 +3,7 @@ title: "Wann Und Warum Scheitern It Projekte"
 date: 2015-04-08T21:57:46+02:00
 draft: false
 tocOpen: true
+authorbox: false
 share:
     facebook: true
     twitter: true

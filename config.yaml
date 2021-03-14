@@ -1,11 +1,13 @@
 baseURL: http://blog.bermuda.de
 languageCode: de-de
+defaultContentLanguage: de
 title: Bermuda Blog
 paginate: 10
 theme: binario
 # googleAnalytics
 Author:
   name: Nils Bokermann
+#  avatar: /img/avatar.png
 #  bio: |-
 #    Ich bin als freiberuflicher IT-Consultant im Java Umfeld tätig. Darüber hinaus berate ich meine Kunden in Architektur- und Methodik-Fragen.
 # avatar =
@@ -42,9 +44,6 @@ menu:
     - url: https://github.com/sanddorn
       name: "github"
       weigh: 1
-#    - url: https://gitlab.com/sanddorn
-#      name: "gitlab"
-#      weigh: 1
     - url: https://tiwtter.com/sanddorn
       name: "twitter"
       weigh: 1

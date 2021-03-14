@@ -1,7 +1,8 @@
 ---
 title: "Was Bedeuten Doppelvorstellungen"
 date: 2020-06-26T16:28:35+02:00
-toc: false
+toc: true
+authorbox: false
 Categories:
   - "Business"
   - "Contracting"

@@ -9,4 +9,5 @@ Categories:
 share:
     facebook: true
     twitter: true
+authorbox: false
 ---

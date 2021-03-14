@@ -11,6 +11,7 @@ share:
   pocket: true
   xing: true
   linkedin: true
+authorbox: false
 ---
 Mein Artikel in der **Java Aktuell 02/2021**:
 
