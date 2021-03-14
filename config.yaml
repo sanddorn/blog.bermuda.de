@@ -21,6 +21,8 @@ params:
   authorbox: true
   customCSS:
     - css/blog.css
+  description:
+    "Der Blog von Nils Bokermann"
 
   entry:
     meta:
