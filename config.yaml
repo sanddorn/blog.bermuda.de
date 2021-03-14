@@ -1,4 +1,4 @@
-baseURL: http://blog.bermuda.de
+baseURL: https://blog.bermuda.de
 languageCode: de-de
 defaultContentLanguage: de
 title: Bermuda Blog
@@ -19,6 +19,8 @@ markup:
 params:
   dateFormat: "2.01.2006"
   authorbox: true
+  customCSS:
+    - css/blog.css
 
   entry:
     meta:
@@ -33,23 +35,29 @@ params:
     linkedin: nils-bokermann-3267826
     github: sanddorn
     gitlab: nils.bokermann
+  Share:
+    facebook: true
+    twitter: true
+    linkedin: true
+    xing: true
+  breadcrumb:
+    enable: false
+    homeText: "Bermuda Blog"
+
+outputFormats:
+  MANIFEST:
+    mediaType: "application/json"
+    basename: "manifest"
+    isPlainText: true
+    notAlternative: true
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "MANIFEST"
+
 
 taxonomies:
   category: "categories"
 #  tag: "tags"
 #  series: "series"
-
-menu:
-  icon:
-    - url: https://github.com/sanddorn
-      name: "github"
-      weigh: 1
-    - url: https://tiwtter.com/sanddorn
-      name: "twitter"
-      weigh: 1
-    - url: https://xing.com/profile/Nils_Bokermann
-      name: "xing"
-      weigh: 1
-    - url: https://www.linkedin.com/in/nils-bokermann-3267826
-      name: "linkedin"
-      weigh: 1
