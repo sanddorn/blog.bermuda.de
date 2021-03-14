@@ -1,3 +1,7 @@
-.logo {
-    content: url("/Logo.svg");
+.js .logo {
+    background-image: url('/Logo.svg');
+    background-repeat: no-repeat;
+    padding-left: 35px;  /* width of the image plus a little extra padding */
+    display: block;  /* may not need this, but I've found I do */
+    background-position-y: center;
 }
