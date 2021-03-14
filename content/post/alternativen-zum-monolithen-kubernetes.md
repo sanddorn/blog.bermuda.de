@@ -12,10 +12,6 @@ share:
   xing: true
   linkedin: true
 authorbox: false
-featured:
-  url: magazine.svg
-  alt: A scale model of the Eiffel tower standing on a map
-  
 ---
 Mein Artikel in der **Java Aktuell 02/2021**:
 
