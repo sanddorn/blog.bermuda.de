@@ -21,6 +21,10 @@ params:
   authorbox: true
   customCSS:
     - css/blog.css
+    - https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css
+  customJS:
+    - https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js
+    - js/algolia.js
   description:
     "Der Blog von Nils Bokermann"
 
