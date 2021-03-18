@@ -20,8 +20,8 @@ params:
   dateFormat: "2.01.2006"
   authorbox: true
   customCSS:
-    - css/blog.css
     - https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css
+    - css/blog.css
   customJS:
     - https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js
     - js/algolia.js
