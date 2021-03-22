@@ -36,3 +36,7 @@
 .aa-SourceFooter {
     display: none;
 }
+
+.fill {
+    width: calc(100%-30px)
+}
