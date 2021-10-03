@@ -59,6 +59,9 @@ Wie auch schon Donald Knuth in [[1]](#references) gesagt hat: „Premature optim
 
 ## Monitoring -- ist das etwas wie Test in der Produktion?
 
+Short answer: Ganz klares kommt drauf an...
+
+Worauf kommt es denn an? 
 
 ## References
 [1]: Donald Knuth. The Art Of Computer Programming. Addison-Wesley, 1968 
